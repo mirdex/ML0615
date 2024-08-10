@@ -15,3 +15,4 @@
 - [2. Numpy Advance](http://mirdex.github.io/ML0615/2.%20NumPy_Q.slides.html)
 - [3. Pandas Review](http://mirdex.github.io/ML0615/3.%20Pandas%20總複習1_Q.slides.html)
 - [4. Pandas Advance](http://mirdex.github.io/ML0615/4.%20Pandas_Q.slides.html)
+- [5. Machine Learning Introduction](http://mirdex.github.io/ML0615/5.Machine%20Learning%20Introduction.slides.html)
