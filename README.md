@@ -20,3 +20,5 @@
 - [7. Data Progress Theory](http://mirdex.github.io/ML0615/7.%20Data%20Progress%20Theory_Q.slides.html)
 - [8. Data Progress Implement](http://mirdex.github.io/ML0615/8.Data%20Process%20Implement_Q.slides.html)
 - [9. KNN](http://mirdex.github.io/ML0615/9.KNN_Q.slides.html)
+- [10. KNN Advance](http://mirdex.github.io/ML0615/10.%20KNN_Advance_Q.slides.html)
+- [11. Association Rule](http://mirdex.github.io/ML0615/11.%20Association%20Rule_Q.slides.html)
