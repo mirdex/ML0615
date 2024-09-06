@@ -25,3 +25,5 @@
 - [12. Naive Bayes Classification](http://mirdex.github.io/ML0615/12.%20Naive%20Bayes%20Classification_Q.slides.html)
 - [13. Decision Tree](http://mirdex.github.io/ML0615/13.%20Decision%20Tree_Q.slides.html)
 - [14. Regression](http://mirdex.github.io/ML0615/16.%20Regression_Q.slides.html)
+- [15. Cluster](http://mirdex.github.io/ML0615/14.%20Cluster_Q.slides.html)
+
