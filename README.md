@@ -26,4 +26,4 @@
 - [13. Decision Tree](http://mirdex.github.io/ML0615/13.%20Decision%20Tree_Q.slides.html)
 - [14. Regression](http://mirdex.github.io/ML0615/16.%20Regression_Q.slides.html)
 - [15. Cluster](http://mirdex.github.io/ML0615/14.%20Cluster_Q.slides.html)
-
+- [16. Sequential Pattern](http://mirdex.github.io/ML0615/15.%20Sequential%20Pattern_Q.slides.html)
